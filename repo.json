@@ -1,0 +1,17 @@
+{
+  "name": "YTMusicUltimate",
+  "subtitle": "Booster-bit App Source",
+  "apps": [
+    {
+      "name": "YouTube Music",
+      "type": 1,
+      "bundleIdentifier": "ccom.google.ios.youtubemusic",
+      "version": "7.10.2",
+      "versionDate": "2024-07-20",
+      "downloadURL": "https://github.com/Booster-bit/YTMusicUltimate/releases/download/untagged-c9b754e2cb8b65fc2d63/YTMusicUltimate.ipa",
+      "iconURL": "https://img.icons8.com/?size=256&id=V1cbDThDpbRc&format=png",
+      "localizedDescription": "YTMusicUltimate",
+      "developerName": "dayanch96"
+    }
+  ]
+}
